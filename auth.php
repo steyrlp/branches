@@ -1,7 +1,7 @@
 <?php
 
 $login=$_POST['login'];
-$pass=$_POST['pass'];
+$pass=$_POST['password'];
 
 var_dump($login, $pass);
 
